@@ -16,8 +16,8 @@ To get started with this API, follow the instructions below:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/syedshahlal/math-operations-api.git
-   cd math-operations-api
+   git clone https://github.com/syedshahlal/flask_test.git
+   cd flask_test.git
 
 2. Install the required dependencies using pip:
 
