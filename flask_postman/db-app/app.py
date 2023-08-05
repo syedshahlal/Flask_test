@@ -3,7 +3,7 @@ import os, utils, pymongo
 from flask import Flask, request, jsonify
 import mysql.connector as conn
 
-# create app - object of Flask class
+# create app - the object of Flask class
 app = Flask(__name__)
 
 
